@@ -65,10 +65,23 @@ figcaption {
     letter-spacing: 1px;
 }
 
+.sample {
+    padding: 5rem 0;
+}
+
 @media screen and (min-width: 800px){
     .two-column {
         display: grid;
         grid-gap: 3rem;
         grid-template-columns: 1fr 1fr;
     }
+}
+
+footer {
+    background-color: var(--gray-light);
+    padding: 1.5rem 0;
+}
+
+footer p {
+    margin-bottom: 0;
 }
