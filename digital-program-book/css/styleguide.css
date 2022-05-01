@@ -1,0 +1,90 @@
+:root { 
+  --black: #000000;
+  --dove-gray: #707070;
+  --white: #ffffff;
+ 
+  --font-size-l: 26px;
+  --font-size-m: 24px;
+  --font-size-s: 22px;
+  --font-size-xl: 32px;
+  --font-size-xs: 18px;
+  --font-size-xxl: 36px;
+  --font-size-xxs: 15px;
+ 
+  --font-family-gillsans-semibold: "GillSans-SemiBold", Helvetica;
+}
+.gillsans-semi-bold-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsans-semi-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsans-semi-bold-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsans-semi-bold-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsans-semi-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsans-semi-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsans-semi-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsans-semi-bold-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gillsans-semi-bold-black-21px {
+  color: var(--black);
+  font-family: var(--font-family-gillsans-semibold);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}

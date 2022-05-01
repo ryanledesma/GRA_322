@@ -1,0 +1,117 @@
+:root { 
+  --accent-brown-1: #efd4b8;
+  --bg: #fffef8;
+  --text-brown: #403332;
+ 
+  --font-size-32px: 32px;
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xs: 11px;
+  --font-size-xxl: 24px;
+  --font-size-xxs: 10px;
+ 
+  --font-family-arial: "Arial", Helvetica;
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+}
+.arial--20pt-subheads {
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.arial--16pt-body {
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+
+.arial--32pt-title {
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-32px);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.arial--24pt-nav-menu {
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+
+.arial-regular-normal-woody-brown-10px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-bold-woody-brown-10px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arial-bold-woody-brown-16px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arial-bold-woody-brown-11px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arial-normal-woody-brown-10px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial);
+  font-size: var(--font-size-xxs);
+}
+
+.arial-regular-normal-woody-brown-20px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-bold-woody-brown-18px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arial-normal-woody-brown-16px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial);
+  font-size: var(--font-size-m);
+}
+
+.arial-regular-normal-woody-brown-18px {
+  color: var(--text-brown);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

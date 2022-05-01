@@ -1,0 +1,375 @@
+/* screen - home2 */
+
+.home2 {
+  background-color: var(--white);
+  height: 2291px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.home2 .rectangle-10-cCx4kp {
+  background-color: var(--white);
+  height: 106px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 768px;
+}
+
+.home2 .ryan-ledesma-cCx4kp {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 2.25px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home2 .program-bookspring-2022-cCx4kp {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 1.95px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 170px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home2 .safe-send-app-cCx4kp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 288px;
+  letter-spacing: 1.65px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home2 .charlies-website-cCx4kp {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 288px;
+  letter-spacing: 1.65px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 948px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home2 .rectangle-16-cCx4kp {
+  background-color: var(--white);
+  height: 478px;
+  left: 145px;
+  position: absolute;
+  top: 410px;
+  width: 478px;
+}
+
+.home2 .rectangle-18-cCx4kp {
+  background-color: var(--white);
+  height: 478px;
+  left: 145px;
+  position: absolute;
+  top: 1009px;
+  width: 478px;
+}
+
+.home2 .gra-322-technology-f-cCx4kp {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 1.65px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 1756px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home2 .pay-cCx4kp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 478px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 410px;
+  width: 478px;
+}
+
+.home2 .mobile-copy-cCx4kp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 478px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 1009px;
+  width: 478px;
+}
+/* screen - home3 */
+
+.home3 {
+  background-color: var(--white);
+  height: 1585px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.home3 .rectangle-10-M4H5da {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.home3 .ryan-ledesma-M4H5da {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 1.58px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home3 .program-bookspring-2022-M4H5da {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 1.35px;
+  line-height: 31px;
+  position: absolute;
+  text-align: left;
+  top: 122px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home3 .safe-send-app-M4H5da {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 131px;
+  letter-spacing: 1.12px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 247px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home3 .charlies-website-M4H5da {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 131px;
+  letter-spacing: 1.12px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 698px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home3 .rectangle-16-M4H5da {
+  background-color: var(--white);
+  height: 339px;
+  left: 29px;
+  position: absolute;
+  top: 291px;
+  width: 339px;
+}
+
+.home3 .gra-322-technology-f-M4H5da {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 1.12px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 1268px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.home3 .pay-M4H5da {
+  background-color: transparent;
+  cursor: pointer;
+  height: 339px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 291px;
+  width: 339px;
+}
+
+.home3 .mobile-copy-M4H5da {
+  background-color: transparent;
+  cursor: pointer;
+  height: 336px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 742px;
+  width: 336px;
+}
+/* screen - program-home */
+
+.program-home {
+  background-color: var(--white);
+  height: 2390px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+
+.program-home .rectangle-10-t9E5F4 {
+  background-color: var(--white);
+  height: 137px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1280px;
+}
+
+.program-home .program-bookspring-2022-t9E5F4 {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 2.40px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.program-home .ryan-ledesma-t9E5F4 {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 2.70px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.program-home .gra-322-technology-f-t9E5F4 {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 1.80px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2092px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.program-home .safe-send-app-t9E5F4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 99px;
+  letter-spacing: 1.80px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 526px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.program-home .charlies-website-t9E5F4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 99px;
+  letter-spacing: 1.80px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 1232px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.program-home .pay-t9E5F4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 509px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 612px;
+  width: 509px;
+}
+
+.program-home .mobile-copy-t9E5F4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 510px;
+  left: 99px;
+  object-fit: cover;
+  position: absolute;
+  top: 1318px;
+  width: 509px;
+}
+@media screen and (max-width: 767px) {
+  .screen.program-home { 
+    display: none;
+   }
+  .screen.home2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .screen.program-home { 
+    display: none;
+   }
+  .screen.home3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) {
+  .screen.home2 { 
+    display: none;
+   }
+  .screen.home3 { 
+    display: none;
+   }
+}
